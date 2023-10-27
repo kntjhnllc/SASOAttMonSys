@@ -14,8 +14,8 @@
         android:theme="@style/Theme.SASOAttMonSys"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
-            android:screenOrientation="fullSensor"
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:screenOrientation="portrait"
             tools:replace="screenOrientation"
             android:exported="true">
             <intent-filter>

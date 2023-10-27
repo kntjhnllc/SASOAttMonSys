@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<!--
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:id="@+id/layout_result"
@@ -51,6 +52,7 @@
         android:layout_marginBottom="47dp"
         app:tint="@android:color/white"
         android:backgroundTint="@color/dark_blue"/>
+-->
 
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
