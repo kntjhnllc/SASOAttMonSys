@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186194623543",
+    "project_id": "sasoattmonsys",
+    "storage_bucket": "sasoattmonsys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186194623543:android:dd771adf8e0f37972c53b2",
+        "android_client_info": {
+          "package_name": "com.example.sasoattmonsys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBduMX5DER4qj5L8K6B2N_qwgMik0ux5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
