@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <application
+
         android:hardwareAccelerated="true"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -14,7 +15,7 @@
         android:theme="@style/Theme.SASOAttMonSys"
         tools:targetApi="31">
         <activity
-            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:name=".MainActivity"
             android:screenOrientation="portrait"
             tools:replace="screenOrientation"
             android:exported="true">
