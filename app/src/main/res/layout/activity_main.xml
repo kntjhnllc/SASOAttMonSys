@@ -22,7 +22,7 @@
             android:layout_width="100dp"
             android:layout_height="100dp"/>
         <TextView
-            android:id="@+id/textResult"
+            android:id="@+id/meeting"
             android:layout_marginTop="16dp"
             android:text=""
             android:textSize="26sp"
